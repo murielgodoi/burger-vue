@@ -1,4 +1,4 @@
-# 3_make_your_burger
+# Burger Vue Example
 
 ## Project setup
 ```
